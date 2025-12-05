@@ -2,3 +2,7 @@ numpy
 matplotlib
 scikit-learn
 pandas
+scikit-image
+tqdm
+torch
+torchvision
